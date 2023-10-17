@@ -16,3 +16,13 @@
 - Document endpoints 1pt (Done)
 
   All URIs begin with: 
+http://localhost:8080/api/v1/product/?sort=asc
+
+|Network|Description|
+|-------|-----------|
+|/user| Retrieves all users|
+|/{userId}| Retrieves a specific product using its ID |
+|/hotel| Retrieves all hotels|
+|/{hotelId}| Retrieves a specific hotel using its ID |
+|/room| Retrieves all rooms|
+|/{roomID| Retrieves a specific room using its ID |
